@@ -3,7 +3,7 @@
 **Live Demo:** [https://karabakh-horses.vercel.app](https://karabakh-horses.vercel.app)
 
 A responsive web app showcasing **Karabakh horses**.  
-Built with **React**, the app features an interactive gallery, profiles of famous horses, and an embedded YouTube video.
+Built with **React**, the app features an interactive gallery, profiles of famous horses.
 
 ## 📌 Purpose
 The app demonstrates **front-end development skills**, including React components, responsive layouts, animations, and user interactivity.
@@ -20,6 +20,3 @@ The app demonstrates **front-end development skills**, including React component
 - HTML5, CSS3, JavaScript (ES6+)
 - React hooks (`useState`, `useRef`)
 - Component-based architecture
-
-## 📝 Credits
-Created by **Aysel Mohbaliyeva**
