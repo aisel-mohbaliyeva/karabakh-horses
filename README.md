@@ -1,4 +1,4 @@
-🐎 Karabakh Horses — Front-End Gallery App
+🐎 Karabakh Horses 
 
 **Live Demo:** [https://karabakh-horses.vercel.app](https://karabakh-horses.vercel.app)
 
